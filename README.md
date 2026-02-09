@@ -1,2 +1,2 @@
-# supatmomo
+# README
 Personal Website
