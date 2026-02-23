@@ -1,0 +1,33 @@
+{
+  "title": "Beyond The Game",
+  "tags": [
+    "UI & UX Design",
+    "Website, Donation, Sport Event & Activity"
+  ],
+  "content": [
+    {
+      "image": "assets/btg/Porto -BTG-1.png"
+    },
+    {
+      "text": "Beyond The Game is a movement that encourages sports enthusiasts to stay active while creating measurable social impact — where every run, match, or game is converted into impact aligned with SROI and SDGs."
+    },
+    {
+      "text": "<h4><b>Beyond The Game — UX Case Highlight</b></h4><p>One challenge I often see in impact-driven products is this: people are willing to contribute, but the impact feels abstract and hard to measure.</p><p>In Beyond The Game, the challenge was to design an experience that helps sports enthusiasts understand how everyday activities can translate into real, measurable social impact, without disrupting their existing routines.</p>"
+    },
+    {
+      "text": "<h4><b>UX approach & key decisions:</b></h4><ul><li>- Designed an activity-to-impact conversion that turns sports participation into measurable outcomes</li><li>- Visualized impact through SROI and SDGs alignment, making contributions tangible and credible</li><li>- Reduced friction by allowing users to create impact simply by doing what they already love: staying active</li><li>- Focused on clarity and motivation to encourage long-term engagement beyond one-off events</li></ul>"
+    },
+    {
+      "text": "<h4><b>Outcome:</b></h4><p>A product experience that connects movement with purpose — making social impact visible, trusted, and measurable.</p>"
+    },
+    {
+      "image": "assets/btg/Porto -BTG-3.png"
+    },
+    {
+      "image": "assets/btg/Porto -BTG-2.png"
+    },
+    {
+      "image": "assets/btg/Porto -BTG-4.png"
+    }
+  ]
+}
