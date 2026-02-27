@@ -1,18 +1,39 @@
 {
-    "title": "Warga Bantu Warga",
-    "tags": [
-      "UI & UX Design",
-      "Website, Donation"
-    ],
-    "content": [
-      {
-        "image": "assets/wbw-supatmo-detail1.png"
-      },
-      {
-        "text": "WargaBantuWarga.com, a site that collects important information about Covid-19. WargaBantuWarga.com provides information related to Covid-19, food assistance, donations to affected residents, including the availability of beds and a list of referral hospitals, as well as locations for filling oxygen cylinders."
-      },
-      {
-        "text": "WargaBantuWarga.com, a site that collects important information about Covid-19. WargaBantuWarga.com provides information related to Covid-19, food assistance, donations to affected residents, including the availability of beds and a list of referral hospitals, as well as locations for filling oxygen cylinders."
-      }
-    ]
-  }
+  "title": "Warga Bantu Warga",
+  "tags": [
+    "UI & UX Design, Volunteer",
+    "Website, Social Impact, Covid-19"
+  ],
+  "content": [
+    {
+      "image": "assets/wbw-supatmo-detail1.png"
+    },
+    {
+      "text": "WargaBantuWarga.com is a collaborative initiative by Kitabisa and various partners to help Indonesian citizens access critical resources during the Covid-19 emergency. I contributed as a volunteer UI/UX Designer to design a fast, clear, and accessible information hub."
+    },
+    {
+      "text": "The platform centralizes essential information such as hospital bed availability, oxygen refill locations, medical services, food assistance, donation access, and referral hospitals to help users make urgent decisions in critical situations."
+    },
+    {
+      "text": "The main challenge was designing for high-stress users who needed instant access to accurate and trustworthy information, often on mobile devices and with limited time."
+    },
+    {
+      "image": "assets/supatmo-wbw.png"
+    },
+    {
+      "text": "The UX approach focused on clear information hierarchy, fast navigation, and scannable layouts so users could find life-saving resources in seconds. Search, categorized data, and location-based content became the core experience."
+    },
+    {
+      "text": "Visual design was kept minimal and functional to prioritize readability and speed, ensuring accessibility for a wide range of users across different devices and internet conditions."
+    },
+    {
+      "text": "Close collaboration with cross-functional volunteers, communities, and data providers was essential to ensure the information structure stayed flexible and continuously updated as the situation evolved."
+    },
+    {
+      "text": "The result was a highly impactful social platform that helped thousands of people quickly access medical and logistical support during the pandemic while strengthening the role of digital products in crisis response."
+    },
+    {
+      "text": "This project taught me how to design under extreme urgency, balance speed with clarity, and prioritize real user needs in a high-impact, mission-driven environment."
+    }
+  ]
+}
