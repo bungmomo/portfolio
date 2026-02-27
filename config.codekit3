@@ -87,6 +87,32 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/app-kitabisa\/1688203578060.jpeg" : {
+      "ft" : 16384,
+      "iS" : 232939,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/app-kitabisa\/1688203578060.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/app-kitabisa\/App Kitabisa -Donation Otomatis V1.png" : {
+      "ft" : 32768,
+      "iS" : 917292,
+      "oA" : 0,
+      "oAP" : "\/assets\/app-kitabisa\/App Kitabisa -Donation Otomatis V1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/app-kitabisa\/App Kitabisa-1.png" : {
       "ft" : 32768,
       "iS" : 1064305,
