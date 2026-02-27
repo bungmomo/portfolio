@@ -249,8 +249,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/app-zakatplus\/Zakat Plus.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -560,6 +560,14 @@
       "oO" : 1,
       "oS" : 1
     },
+    "\/assets\/data\/oleca.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/assets\/data\/oleca-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
     "\/assets\/data\/paripadi.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -572,6 +580,14 @@
       "ft" : 524288,
       "oA" : 1,
       "oAP" : "\/assets\/data\/summary-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/assets\/data\/virtues.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/assets\/data\/virtues-min.json",
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
@@ -974,19 +990,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/supatmo-virtues.png" : {
-      "ft" : 32768,
-      "iS" : 323991,
-      "oA" : 0,
-      "oAP" : "\/assets\/supatmo-virtues.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/assets\/supatmo-wbw.png" : {
       "ft" : 32768,
       "iS" : 1211552,
@@ -1024,6 +1027,74 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/web-oleca\/oleca-detail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 79578,
+      "oA" : 0,
+      "oAP" : "\/assets\/web-oleca\/oleca-detail-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/assets\/web-oleca\/oleca-detail-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 94642,
+      "oA" : 0,
+      "oAP" : "\/assets\/web-oleca\/oleca-detail-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/assets\/web-virtues\/supatmo-virtues.png" : {
+      "ft" : 32768,
+      "iS" : 323991,
+      "oA" : 0,
+      "oAP" : "\/assets\/web-virtues\/supatmo-virtues.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/web-virtues\/virtues-detail-1.webp" : {
+      "ft" : 8388608,
+      "iS" : 54090,
+      "oA" : 0,
+      "oAP" : "\/assets\/web-virtues\/virtues-detail-1.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/assets\/web-virtues\/virtues-detail-2.webp" : {
+      "ft" : 8388608,
+      "iS" : 28446,
+      "oA" : 0,
+      "oAP" : "\/assets\/web-virtues\/virtues-detail-2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/assets\/web-virtues\/virtues-detail-3.webp" : {
+      "ft" : 8388608,
+      "iS" : 122846,
+      "oA" : 0,
+      "oAP" : "\/assets\/web-virtues\/virtues-detail-3.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/build\/.gitignore" : {

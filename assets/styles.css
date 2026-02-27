@@ -743,13 +743,13 @@ html:not(.is-mobile) .aboutContainer-closer:hover .aboutContainer-closerIcon pat
 	transform:translateY(-50%)
 }
 .aboutContent-infoHeadline+.aboutContent-infoParagraph {
-	margin-top:3.5rem
+	margin-top:2.5rem
 }
 .aboutContent-infoParagraph {
 	color:#252525
 }
 .aboutContent-infoParagraph+.aboutContent-infoParagraph {
-	margin-top:2.5rem
+	margin-top:1.5rem
 }
 .aboutContent-footer {
 	color:#252525
