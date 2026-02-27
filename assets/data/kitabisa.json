@@ -1,0 +1,49 @@
+{
+  "title": "Kitabisa Mobile App — Habit-Forming Donation Experience",
+  "tags": [
+    "Product Design",
+    "UX Strategy",
+    "Mobile App",
+    "Crowdfunding platform & Social Impact"
+  ],
+  "content": [
+    {
+      "image": "assets/app-kitabisa/kitabisa-app-2019.png"
+    },
+    {
+      "text": "I led the end-to-end design of the Kitabisa mobile app from 0 → 1 in 2018, launched in May 2019, and evolved it into a habit-forming giving platform used by millions of users."
+    },
+    {
+      "text": "<h4><b>Product Vision</b></h4><p>Transform donation from a one-time action into a daily habit through a seamless, frictionless, and emotionally engaging experience.</p>"
+    },
+    {
+      "text": "<h4><b>Phase 1 — Mobile Foundation (2019)</b></h4><ul><li>Designed a fast and simple donation flow with minimal steps</li><li>Integrated multiple payment methods including GoPay</li><li>Enabled donations starting from Rp1,000 (for acquisitions users strategy)li><li>Created dedicated journeys for Zakat, Qurban, Zakat Fitrah, and Zakat Maal</li></ul><p><b>Outcome:</b> Higher mobile conversion and stronger user trust through a modern, lightweight experience.</p>"
+    },
+
+    {
+      "image": "assets/app-kitabisa/App Kitabisa.png"
+    },
+    {
+      "text": "<h4><b>Phase 2 — Engagement & Habit Formation (2021)</b></h4><p>The strategy shifted from enabling transactions to building long-term giving behavior.</p><ul><li><b>Donasi Otomatis:</b> recurring donations to remove decision fatigue and increase retention</li><li><b>Donation Streak & Kalender Kebaikan:</b> gamified consistency with progress visibility and streak recovery</li><li><b>Ecosystem expansion:</b> Sharia Insurance (Saling Jaga) and Voluntrip</li><li><b>Header card system:</b> personalized and faster access to key features</li></ul><p><b>Outcome:</b> Increased donation frequency, stronger recurring user retention, and deeper emotional engagement.</p>"
+    },
+
+    {
+      "image": "assets/app-kitabisa/App Kitabisa.png"
+    },
+    {
+      "text": "<h4><b>Phase 3 — Frictionless & Habit-First Experience (2026)</b></h4><ul><li>Shifted from campaign marketplace to a personalized giving journey</li><li>Reduced steps and cognitive load to speed up donation</li><li>Moved \"Kalender Kebaikan\" to the top to reinforce daily motivation</li><li>Simplified UI with feature-driven navigation</li></ul><p><b>Outcome:</b> Faster time to donate, higher repeat behavior, and a more focused, intuitive product experience.</p>"
+    },
+
+    {
+      "text": "<h4><b>Design Process</b></h4><ul><li>Behavioral data and funnel analysis</li><li>User interviews (one-time vs recurring donors)</li><li>Gamification and layout exploration</li><li>Iterative delivery with product and engineering</li></ul>"
+    },
+
+    {
+      "text": "<h4><b>Key Learnings</b></h4><ul><li>Giving is a behavior, not just a transaction</li><li>Visibility drives consistency</li><li>Recurring users sustain the ecosystem</li><li>UX can strengthen emotional and spiritual motivation</li></ul>"
+    },
+
+    {
+      "text": "<h4><b>Impact</b></h4><p>This product evolution helped transform Kitabisa from a donation platform into a daily kindness ecosystem — turning generosity into a long-term habit.</p>"
+    }
+  ]
+}

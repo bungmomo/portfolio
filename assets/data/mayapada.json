@@ -1,0 +1,30 @@
+{
+  "title": "MyCare — Mayapada Hospital Mobile App",
+  "tags": [
+    "UI & UX Design",
+    "Mobile App, Healthcare, Appointment Booking"
+  ],
+  "content": [
+    {
+      "image": "assets/app-mayapada/App Mayapada Detail.jpg"
+    },
+    {
+      "text": "MyCare is a mobile healthcare application by Mayapada Hospital that enables patients to find doctors, book appointments, and manage their hospital visits seamlessly in one integrated experience."
+    },
+    {
+      "text": "<h4><b>UX Case Highlight</b></h4><p>Hospital appointment booking is often time-consuming, requires repetitive manual registration, and lacks clear confirmation. This creates long queues, higher administrative workload, and low digital adoption.</p><p>The challenge was to design a fast, trustworthy, and reassuring booking experience that allows patients to complete the process confidently and skip manual data entry at the hospital.</p>"
+    },
+    {
+      "text": "<h4><b>UX approach & key decisions:</b></h4><ul><li>- Simplified the end-to-end booking flow with a clear stepper and guided actions</li><li>- Prioritized nearest hospital selection to reduce decision time</li><li>- Added doctor trust signals (experience, ratings, reviews, specialization) for faster and more confident choices</li><li>- Grouped schedule by day with prominent time slots for quick scanning</li><li>- Created transparent payment summary to eliminate cost uncertainty</li><li>- Designed QR-based confirmation for seamless on-site check-in without re-entering patient data</li></ul>"
+    },
+    {
+      "text": "<h4><b>Outcome:</b></h4><p>A streamlined healthcare booking experience that reduces hospital queues, improves operational efficiency, and increases patient confidence through a clear, fast, and trust-driven mobile journey.</p>"
+    },
+    {
+      "image": "assets/app-mayapada/App Mayapada.png"
+    },
+    {
+      "image": "assets/app-mayapada/App Mayapada-2.png"
+    }
+  ]
+}

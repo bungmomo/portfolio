@@ -1,0 +1,30 @@
+{
+  "title": "ZakatPlus — A More Personal & Trustworthy Digital Zakat Experience",
+  "tags": [
+    "UX Design",
+    "Zakat, Donation, Impact Platform"
+  ],
+  "content": [
+    {
+      "image": "assets/app-zakatplus/Zakat Plus-1.png"
+    },
+    {
+      "text": "ZakatPlus is a digital platform designed to make zakat distribution more transparent, personal, and impactful. The goal was to transform zakat from a purely administrative process into a meaningful and trusted user journey."
+    },
+    {
+      "text": "<h4><b>ZakatPlus — UX Case Highlight</b></h4><p>While reviewing existing digital zakat experiences, I noticed a recurring pattern: users came with good intentions, but the experience felt overly administrative for something deeply personal.</p><p>They were often faced with too many program options, long form-like flows, and uncertainty about what happens after payment. As a result, zakat was treated as a task to complete rather than a meaningful act of worship.</p><p>This led to the core question: how might we design a zakat experience that is fast, personal, and trustworthy — without losing its spiritual meaning?</p>"
+    },
+    {
+      "text": "<h4><b>UX approach & key decisions:</b></h4><ul><li>- Introduced location-based recommendations to reduce decision fatigue and make the experience feel more personal and contextual</li><li>- Designed a conversational flow to replace long forms, lowering cognitive load and creating a familiar interaction model</li><li>- Highlighted a 100% cash distribution concept to simplify the value proposition and increase perceived trust and impact</li><li>- Built a Zakat Tracker to provide post-payment transparency and turn a one-time transaction into a continuous meaningful journey</li><li>- Reframed programs into human-centered impact categories (Jaga Sejahtera & Jaga Harapan) to help users choose based on meaning, not technical terms</li></ul>"
+    },
+    {
+      "text": "<h4><b>Outcome:</b></h4><p>A faster and more intuitive zakat experience with reduced friction, stronger user trust, and a more emotionally engaging journey — where users feel confident that their intention reaches the right people.</p>"
+    },
+    {
+      "image": "assets/app-zakatplus/Zakat Plus-2.png"
+    },
+    {
+      "image": "assets/app-zakatplus/Zakat Plus-3.png"
+    }
+  ]
+}
